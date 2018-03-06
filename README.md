@@ -21,6 +21,8 @@ L’éco-système de jeu devra être disposé, dans un environnement adapté, de
 
 ![Mise en place FAST](https://raw.githubusercontent.com/NicolasBighetti/F.A.S.T/master/piece.jpg)
 
+Le setup indiviuel pour chaque plate-forme est disponible dans le README du sous dossier de l'application de la plate-forme
+
 # Contributeurs  
 
 Alison BERLIOZ  Nicolas BIGHETTI  Flavian JACQUOT  Steven LEQUIENT
