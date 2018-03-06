@@ -23,6 +23,9 @@ L’éco-système de jeu devra être disposé, dans un environnement adapté, de
 
 Le setup indiviuel pour chaque plate-forme est disponible dans le README du sous dossier de l'application de la plate-forme
 
+## Spécifications du projet  
+https://docs.google.com/document/d/1FWADMczN9g2uVyr7bRIQOU0Bd298s5VFPcLsCtjj-Po/edit#
+
 # Contributeurs  
 
 Alison BERLIOZ  Nicolas BIGHETTI  Flavian JACQUOT  Steven LEQUIENT
